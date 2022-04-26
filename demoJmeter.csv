@@ -1,0 +1,6 @@
+#group,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+#datatype,string,long,dateTime:RFC3339,double,string,string
+#default,mean,,,,,
+,result,table,_time,_value,_field,_measurement
+,,3,2022-04-25T22:26:50Z,4555,duration,T01_Homepage
+,,4,2022-04-25T22:26:50Z,9000,duration,T02_Login
